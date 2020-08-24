@@ -1,0 +1,131 @@
+ /* header */
+.header{
+  background-color: #293f50;
+  color: white;
+}
+.right-head{
+  position: relative;
+  left: 700px;
+  padding-top:110px;
+  padding-right: 20px;
+
+}
+.august{
+  position: absolute;
+  right: 190px;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.header h1{
+  position: absolute;
+  top: 35px;
+  left:175px;
+  font-size: 50px;
+}
+.header a{
+  color: white;
+}
+/* index.html*/
+.middle{
+  text-align: center;
+  padding: 50px 220px;
+}
+.every{
+  padding: 20px 2px;
+}
+.btn{
+  padding: 20px 30px;
+}
+.color-head{
+  color: #648880;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+
+  padding:70px 130px;
+}
+.grid-item{
+padding: 10px 20px;
+}
+.image-mid{
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
+/* footer*/
+.footer{
+  background-color: #293f50;
+  color: white;
+}
+.bottom-nav{
+  position:relative;
+  left:700px;
+  bottom: 40px;
+}
+.footer p{
+  position: relative;
+  left: 40px;
+  bottom: -9px;
+  padding-top: 30px;
+}
+.footer a{
+  color: white;
+}
+/* SPEAKERS.HTML*/
+.middle-speaker{
+  text-align: center;
+  background-color: #a1d3b0;
+  padding: 50px 220px;
+}
+.img-1{
+ padding: 150px 150px 30px 30px;
+  float:right;
+  display: inline;
+  margin-left: 10px;
+  text-align: center;
+}
+.para-1{
+  padding: 70px 400px 20px 200px;
+}
+.img-1 img{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  padding: 20px;
+}
+/*SCHEDULE.html */
+.schedule-tab{
+  padding:50px 200px 50px 220px;
+}
+.schedule-tab td{
+  padding: 10px 5px;
+}
+/*venue*/
+.venue-tab{
+  padding: 20px 100px 30px 100px;
+}
+.googleMap{
+  padding: 10px;
+}
+.venue-tab tr{
+  padding: 10px 30px 10px 30px;
+}
+/* register*/
+.reg-table{
+  padding: 100px 170px;
+}
+.reg-table td{
+  padding: 10px 30px;
+}
+.submit {
+  height: 50px;
+  width: 100px;
+}
+.passes{
+  height: 25px;
+  width: 180px;
+}
+.reg-lab{
+  padding-top: 15px;
+}
